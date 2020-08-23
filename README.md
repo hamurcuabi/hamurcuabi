@@ -3,7 +3,7 @@
 
 ## I'm an Android Developer!
 
-- 🔭 I’m currently working on a [website]!
+- 🔭 I’m currently working on some private projects in company!
 - 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -28,7 +28,9 @@
 <br />
 
 [![hamurcuabi's github stats](https://github-readme-stats.vercel.app/api?username=hamurcuabi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamurcuabi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://emrehamurcu.com
