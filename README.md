@@ -35,7 +35,6 @@
 
 <br />
 
-
 [website]: https://emrehamurcu.com
 [youtube]: https://www.youtube.com/channel/UCsgjCOoNyeg-9pmFWEN4dZw
 [instagram]: https://www.instagram.com/e.hmrc/?hl=tr
