@@ -27,8 +27,8 @@
 
 <br />
 
-[![hamurcuabi's github stats](https://github-readme-stats.vercel.app/api?username=hamurcuabi)](https://github.com/anuraghazra/github-readme-stats)
-
+[![hamurcuabi's github stats](https://github-readme-stats.vercel.app/api?username=hamurcuabi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamurcuabi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [website]: https://emrehamurcu.com
 [youtube]: https://www.youtube.com/channel/UCsgjCOoNyeg-9pmFWEN4dZw
 [instagram]: https://www.instagram.com/e.hmrc/?hl=tr
