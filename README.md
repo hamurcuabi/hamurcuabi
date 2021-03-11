@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on some private android projects in a company!
 - 🌱 I’m currently learning Kotlin
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch series and play guitar
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to watch series and play guitar but playing table tenis is in top of my list ever.
 
 
 ### Connect with me:
