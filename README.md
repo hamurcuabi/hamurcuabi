@@ -1,7 +1,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hamurcuabi&show_icons=true">
 
-# Hi, I'm Emre Hamurcu
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'am+Emre+Hamurcu)](https://git.io/typing-svg)
 * <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamurcuabi" alt="hamurcuabi" />   </p>
 * [![](https://img.shields.io/github/followers/hamurcuabi?style=social)](https://www.github.com/hamurcuabi)
 
