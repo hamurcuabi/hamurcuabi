@@ -26,5 +26,5 @@ My specialties:
 * Solid understanding of the full development life cycle
 * Self-learner and admire to work autonomously, without supervision, and passionate about creating android applications.
 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar but playing table tenis is in top of my list ever.
